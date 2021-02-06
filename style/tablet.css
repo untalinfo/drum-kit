@@ -1,0 +1,14 @@
+@media only screen and (min-width: 768px){
+    body {
+        background-image: url(/img/background-medium.jpg);
+    }
+
+    .container {
+        flex-wrap: nowrap;
+    }
+
+    .footer .container__footer--social ul li {
+        display: inline-block;
+        margin-right: 1em;
+    }
+}
